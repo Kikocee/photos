@@ -1,0 +1,15 @@
+.landing-page .header {
+    background-image: url(../images/sea.jpg) !important;
+    background-position: 50% 50%;
+}
+.item-seperator {
+    height: 1px;
+    background-color: #ccc;
+    margin: 10px;
+}
+.cards-section .item-inner {
+    margin-top: 17px;
+}
+.bottom-introduction.text-center {
+    margin-bottom: 25px;
+}
